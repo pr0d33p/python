@@ -1,0 +1,5 @@
+First of all, I created sigma2(n) function which return the addition of square of numbers of specific number passed into the function. Here, it returns 50 as mentioned in the question. Here, the divisors are found out and appended into list which is further squared and added to each other and finally returned the added result.	
+
+SIGMA2(n) function represents the summatory function of sigma2(). Hence, SIGMA2(n) takes the returned value from sigma2(n) and adds them and finally return.
+
+The LIST(n) returns the values of SIGMA2 in list. Hence SIGMA2(1015) % 109 is calculated and final output is found out to be 10.
